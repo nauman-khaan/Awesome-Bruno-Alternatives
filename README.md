@@ -1,7 +1,7 @@
 # 🌟 Awesome Bruno Alternatives
 
 Curated list of the best **Bruno alternatives** for API testing, documentation, and developer workflow.  
-Inspired by the **“Awesome XXX” repositories** idea, this repo collects tools, platforms, and AI assistants that can replace or complement Bruno.
+Inspired by the **“Awesome Bruno Alternatives” repositories** idea, this repo collects tools, platforms, and AI assistants that can replace or complement Bruno.
 
 ---
 
