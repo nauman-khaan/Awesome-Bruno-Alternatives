@@ -91,7 +91,7 @@ Perfect for teams building **developer portals** or **self-service API hubs**.
 
 ## 🤖 AI-Powered Enhancements
 
-### 🔹 [Ani Code](https://github.com/hervekom37/Ani-Code-CLI.git) – Open-Source AI Coding Assistant
+### 🔹 [Ani Code Demo](https://github.com/hervekom37/Ani-Code-CLI.git) – Open-Source AI Coding Assistant
 
 https://github.com/user-attachments/assets/3f8611c5-ef33-4ddb-9785-65d723659560
 
